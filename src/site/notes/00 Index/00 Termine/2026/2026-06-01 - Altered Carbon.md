@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/00 Index/00 Termine/2026/2026-06-01 - Altered Carbon/","tags":["ScienceFiction","Noir","Unsterblichkeit"],"dg-note-properties":{"titel":"Altered Carbon","autor":"Richard Morgan","tags":["ScienceFiction","Noir","Unsterblichkeit"]}}
 ---
 
+
 Unser erstes Treffen fand am 1. Juni statt. Als Buch war [[02 Werke/Altered Carbon\|Altered Carbon]] von [[01 Autoren/Richard Morgan\|Richard Morgan]] vorgegeben. Da dies die erste Sitzung des Buchclubs war, legten wir erst einmal einige Dinge fest, nachdem wir über das Buch gesprochen hatten.
 
 ## Altered Cabon
-
 Es sollte der erste Teil des Buches gelesen werden (S. 129). 
-## Protokoll
 
+## Protokoll
 Ein zentraler Kritikpunkt der Gruppe war der Einstieg in das Werk. Mehrere Teilnehmer merkten an, dass bestimmte Begriffe wie *Reach*, *Mahlstrom* oder *chemische Aufmerksamkeit* zunächst eher verwirrend wirkten und den Zugang zur Geschichte erschwerten.
 
 Außerdem wurde die Darstellung einer beinahe unsterblichen Gesellschaft diskutiert. Die Menschen im Werk scheinen durch das nahezu ewige Leben abgestumpft oder gelangweilt zu sein. In diesem Zusammenhang sprachen wir über das suizidale Verhalten der Jugendlichen sowie darüber, dass junge Körper innerhalb der Gesellschaft offenbar einen besonderen Status besitzen.
