@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/00 Index/Willkommen/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
-
-
 Der Buchclub trifft sich montags im zweiwöchigen Rhythmus über WE20. Die Treffen dauern in der Regel zwischen einer und anderthalb Stunden.
 
 Im Mittelpunkt stehen Gespräche über Literatur: Romane, Erzählungen, Klassiker, moderne Werke und alles dazwischen. Dabei geht es nicht darum, Literatur *richtig* zu verstehen, sondern unterschiedliche Perspektiven kennenzulernen und gemeinsam über Texte nachzudenken.
