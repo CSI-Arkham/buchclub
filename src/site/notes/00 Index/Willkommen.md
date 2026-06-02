@@ -11,3 +11,14 @@ Ein besonderer Fokus liegt auf Geschichten als Werkzeug für kreatives Erzählen
 Jeder ist willkommen — unabhängig davon, ob viel gelesen wird oder man gerade erst beginnt, sich intensiver mit Literatur zu beschäftigen.
 
 Auf dieser Seite sammele ich Autoren, Werke, Notizen, Empfehlungen und Diskussionen aus dem Buchclub. Auf dem Discord von [WE20](https://discord.gg/we20) wird alles organisiert.
+
+Bei unserem [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|ersten Treffen]] haben wir den ersten Teil von [[02 Werke/Altered Carbon\|Altered Carbon]] von [[01 Autoren/Richard Morgan\|Richard Morgan]] besprochen.
+
+Für das nächste Buch ist eine [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung]] offen. Den Link zur Umfrage findet ihr auf den Discord.
+
+**Buchlisten**:
+[[03 Listen/BBC-Big-Read\|BBC-Big-Read]]
+[[03 Listen/Booker-Prize\|Booker-Prize]]
+[[03 Listen/Lesen-Unsere-Besten\|Lesen-Unsere-Besten]]
+[[03 Listen/SZ-Bibliothek\|SZ-Bibliothek]]
+[[03 Listen/ZEIT-Bibliothek\|ZEIT-Bibliothek]]

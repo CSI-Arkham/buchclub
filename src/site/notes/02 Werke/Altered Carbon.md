@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon - Das Unsterblichkeitsprogramm","aliases":"Altered Carbon","autorname":"Morgan","autorvorname":"Richard","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir"],"status":"aktuell","wertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
+{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir"],"status":"aktuell","wertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
 ---
 
 
@@ -13,18 +13,21 @@ Die Geschichte wird aus der Ich-Perspektive des Protagonisten geschildert. Die H
 - Trennung von Geist und Körper
 
 ## Figuren
-- 
-- 
+- Takeshi Kovacs
+  Protagonist und verurteilter Straftäter, der von Laurens Bancroft angeheuert wird, um seinen, Bancrofts, Mord aufzuklären.
+- Laurens Bancroft
+  Super Reicher und einflussreicher Mensch, der durch beständiges *sleeven* über 300 Jahre alt sind.
 - 
 
 ## Stil
-Besonderheiten der Sprache, Struktur oder Erzählweise.
+Thriller in der Zukunft, in der Art eines Film Noir.
 
 ## Eindruck
-Persönliche Meinung und Wirkung des Werkes.
+
 
 ## Zitate
-> 
+
+>Sie war gerade dabei, sich lange Wollstrümpfe über de glänzenden Schenkel zu ziehen. Prolog S. 12. 
 
 ## Diskussionen
 - [[]]
@@ -39,4 +42,4 @@ Persönliche Meinung und Wirkung des Werkes.
 - 
 
 ## Siehe auch
-- [[Autor\|Autor]]
+- [[01 Autoren/Richard Morgan\|Richard Morgan]]
