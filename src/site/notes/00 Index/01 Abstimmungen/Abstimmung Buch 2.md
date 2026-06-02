@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/00 Index/01 Abstimmungen/Abstimmung Buch 2/","dg-note-properties":{"abstimmungsjahr":"2026"}}
 ---
 
-# Abstimmung Buch 2
-
 Abstimmungszeitraum **01.06.2026** von bis **29.06.2026**
 
 | Titel                                           | Autor                 | Inhalt                                                                                                             | Stimmen<br>ja/ok |
@@ -11,7 +9,7 @@ Abstimmungszeitraum **01.06.2026** von bis **29.06.2026**
 | [[Der Seemann, der die See verriet\|Der Seemann, der die See verriet]]            | [[Yukio Mishima\|Yukio Mishima]]     | Ein Junge und seine Clique verwandeln enttäuschte Ideale in Gewalt.                                                | 1/0              |
 | [[Eroberung\|Eroberung]]                                   | [[Laurent Binet\|Laurent Binet]]     | Alternative Geschichtsschreibung voller politischer Intrigen, Religion und kultureller Verschiebungen.             | 1/0              |
 | [[Metro 2033\|Metro 2033]]                                  | [[Dmitry Glukhovsky\|Dmitry Glukhovsky]] | Düstere postapokalyptische Reise durch die Moskauer Metro.                                                         | 1/0              |
-| [[02 Werke/Orlando\|Orlando]]                                     | [[Virginia Woolf\|Virginia Woolf]]    | Moderne, intensive Literatur mit starkem Fokus auf Bewusstsein, Identität und die inneren Konflikte ihrer Figuren. | 1/0              |
+| [[Orlando\|Orlando]]                                     | [[Virginia Woolf\|Virginia Woolf]]    | Moderne, intensive Literatur mit starkem Fokus auf Bewusstsein, Identität und die inneren Konflikte ihrer Figuren. | 1/0              |
 | [[Beowulf\|Beowulf]]                                     |                       | Ein Held kämpft gegen Monster und am Ende gegen den eigenen Ruhm.                                                  | 0/1              |
 | [[Die Hacienda\|Die Hacienda]]                                | [[Isabel Cañas\|Isabel Cañas]]      | Historischer Horrorroman voller Geister, Schuld und mexikanischer Folklore.                                        | 0/0              |
 | [[Träumen Androiden von elektrischen Schafen?\|Träumen Androiden von elektrischen Schafen?]] | [[Philip K. Dick\|Philip K. Dick]]    | Die Vorlage zu Blade Runner; melancholische Cyberpunk-Dystopie.                                                    | 0/0              |
