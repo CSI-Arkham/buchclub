@@ -3,7 +3,7 @@
 ---
 
 
-# Willkommen im Buchclub
+
 
 Der Buchclub trifft sich montags im zweiwöchigen Rhythmus über WE20. Die Treffen dauern in der Regel zwischen einer und anderthalb Stunden.
 
