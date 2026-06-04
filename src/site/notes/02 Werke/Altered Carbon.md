@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir"],"status":"aktuell","wertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
+{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir","Krimi"],"status":"aktuell","wertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
 ---
 
 
@@ -13,9 +13,9 @@ Die Geschichte wird aus der Ich-Perspektive des Protagonisten geschildert. Die H
 - Trennung von Geist und Körper
 
 ## Figuren
-- Takeshi Kovacs
+- **Takeshi Kovacs**
   Protagonist und verurteilter Straftäter, der von Laurens Bancroft angeheuert wird, um seinen, Bancrofts, Mord aufzuklären.
-- Laurens Bancroft
+- **Laurens Bancroft**
   Super Reicher und einflussreicher Mensch, der durch beständiges *sleeven* über 300 Jahre alt sind.
 - 
 
@@ -23,23 +23,20 @@ Die Geschichte wird aus der Ich-Perspektive des Protagonisten geschildert. Die H
 Thriller in der Zukunft, in der Art eines Film Noir.
 
 ## Eindruck
-
+Anfangs schwer reinzukommen, wegen der spezifischen Vokabeln des Genres.
 
 ## Zitate
 
 >Sie war gerade dabei, sich lange Wollstrümpfe über de glänzenden Schenkel zu ziehen. Prolog S. 12. 
 
 ## Diskussionen
-- [[]]
-
-## Verbindungen
-- [[]]
+- [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erster Teil]]
 
 ## Editionen
-- 
+- Heyne Verlag 2017, ISBN 978-3453318656, deutsch von Bernhard Kempen, 608 Seiten
 
 ## Notizen
-- 
+- 2018 und 2020 entstanden zwei Staffeln einer Netflix Serie unter dem Buchtitel.
 
 ## Siehe auch
 - [[01 Autoren/Richard Morgan\|Richard Morgan]]

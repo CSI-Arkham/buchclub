@@ -12,9 +12,13 @@ Jeder ist willkommen — unabhängig davon, ob viel gelesen wird oder man gerade
 
 Auf dieser Seite sammele ich Autoren, Werke, Notizen, Empfehlungen und Diskussionen aus dem Buchclub. Auf dem Discord von [WE20](https://discord.gg/we20) wird alles organisiert.
 
-Bei unserem [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|ersten Treffen]] haben wir den ersten Teil von [[02 Werke/Altered Carbon\|Altered Carbon]] von [[01 Autoren/Richard Morgan\|Richard Morgan]] besprochen.
+**Aktuell wird gelesen**:
+[[02 Werke/Altered Carbon\|Altered Carbon]] von [[01 Autoren/Richard Morgan\|Richard Morgan]].
 
-Für das nächste Buch ist eine [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung]] offen. Den Link zur Umfrage findet ihr auf den Discord.
+**Zusammenfassungen**:
+[[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erstes Treffen]]
+
+Für das nächste Buch ist eine [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung]] offen. Den Link zur Umfrage findet ihr auf Discord.
 
 **Buchlisten**:
 [[03 Listen/BBC-Big-Read\|BBC-Big-Read]]

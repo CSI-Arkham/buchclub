@@ -24,8 +24,7 @@ Richard Morgan wurde am 24. September 1965 in London geboren. Er studierte Engli
 ## Zitate
 
 >Fuelled by every crime noir novel I’d ever read, plus swabs of French and Japanese cinema, the work of William Gibson and M John Harrison, early Poul Anderson and Bob Shaw, and last but not least the colossal impact of Bladerunner, this was my take on *future noir*.
->
- *[Richard Morgan auf seiner Website](https://web.archive.org/web/20130304115816/http://www.richardkmorgan.com:80/novels/altered-carbon)*
+>*[Richard Morgan auf seiner Website](https://web.archive.org/web/20130304115816/http://www.richardkmorgan.com:80/novels/altered-carbon)*
 
 ## Verbindungen
 - [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|2026-06-01 - Altered Carbon]]

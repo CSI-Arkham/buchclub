@@ -28,5 +28,5 @@ Ein weiterer Schwerpunkt war die Frage nach persönlicher Identität: Ist man no
 ## Buchclub
 - Wir wollen uns alle 14 Tage montags treffen. Der Nächste Termin ist am 15.06.2026.
 - Für das nächste Treffen wollen wir den zweiten Teil (Reaktion, bis S. 233) lesen.
-- Die nächste Lektüre wird gewählt. Dafür kann jeder 10 Titel einreichen, der Linkt zur [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung Buch 2]] findet sich auf Discord.
+- Die nächste Lektüre wird gewählt. Dafür kann jeder 10 Titel einreichen, der Link zur [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung Buch 2]] findet sich auf Discord.
 
