@@ -6,12 +6,6 @@ Abstimmungszeitraum **01.06.2026** von bis **29.06.2026**
 An der Abstimmung können alle Buchclubinteressierte über einen Link auf [Discord](https://discord.pp/we20) teilnehmen, die Ergebnisse werden hier manuell synchronisiert. Die Ergebnisse der Umfrage ist maßgeblich, falls ich mal einen Fehler beim abtippen mache :)
 
 
-<iframe    
-src="https://cloud.we20.de/apps/polls/s/Mu2jsEex"
-width="100%"    
-height="600"    
-frameborder="0"></iframe>
-
 
 | Titel                                           | Autor                 | Inhalt                                                                                                             | Stimmen<br>ja/ok |
 | :---------------------------------------------- | :-------------------- | :----------------------------------------------------------------------------------------------------------------- | :--------------- |
