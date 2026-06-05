@@ -7,7 +7,7 @@ An der Abstimmung können alle Buchclubinteressierte über einen Link auf [Disco
 
 
 <iframe    
-src="https://cloud.we20.de/apps/polls/vote/1"
+src="https://cloud.we20.de/apps/polls/s/Mu2jsEex"
 width="100%"    
 height="600"    
 frameborder="0"></iframe>
