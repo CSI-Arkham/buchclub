@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/01 Autoren/Richard Morgan/","tags":["ScienceFiction","Fantasy","Thriller","Roman"],"dg-note-properties":{"autorname":"Morgan","autorvorname":"Richard","aliases":null,"geburt":1965,"tod":null,"land":"England","epochen":["Moderne"],"tags":["ScienceFiction","Fantasy","Thriller","Roman"]}}
+{"dg-publish":true,"permalink":"/01 Autoren/Richard Morgan/","tags":["ScienceFiction","Fantasy","Thriller","Roman"],"dg-note-properties":{"autorname":"Morgan","autorvorname":"Richard","vollname":"[[Richard Morgan]]","aliases":null,"geburt":1965,"tod":null,"land":"England","epochen":["Moderne"],"tags":["ScienceFiction","Fantasy","Thriller","Roman"]}}
 ---
+
 
 ## Kurzbeschreibung
 Richard Morgan wurde am 24. September 1965 in London geboren. Er studierte Englisch und Geschichte in Cambridge. Für sein Debüt [[02 Werke/Altered Carbon\|Das Unsterblichkeitsprogramm]] wurde er 2002 mit dem Philip K. Dick Award für den besten Roman des Jahres ausgezeichnet.

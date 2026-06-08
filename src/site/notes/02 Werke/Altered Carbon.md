@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir","Krimi"],"status":"aktuell","wertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
+{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","vollname":"[[01 Autoren/Richard Morgan\|Richard Morgan]]","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir","Krimi"],"status":"gelesen","wertung":9,"tags":["Unsterblichkeit","Zukunft"]}}
 ---
 
 

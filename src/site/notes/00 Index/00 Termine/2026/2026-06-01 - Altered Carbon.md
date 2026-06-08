@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00 Index/00 Termine/2026/2026-06-01 - Altered Carbon/","tags":["ScienceFiction","Noir","Unsterblichkeit"],"dg-note-properties":{"titel":"Altered Carbon","autor":"Richard Morgan","tags":["ScienceFiction","Noir","Unsterblichkeit"]}}
+{"dg-publish":true,"permalink":"/00 Index/00 Termine/2026/2026-06-01 - Altered Carbon/","tags":["ScienceFiction","Noir","Unsterblichkeit"],"dg-note-properties":{"tags":["ScienceFiction","Noir","Unsterblichkeit"]}}
 ---
 
 
