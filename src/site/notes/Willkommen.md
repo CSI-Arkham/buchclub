@@ -3,7 +3,6 @@
 ---
 
 ![Buchmafia.png](/img/user/98%20Anh%C3%A4nge/Bilder/Buchmafia.png)
-
 **Willkommen im WE20 Buchclub, schön, dass Du da bist!**
 
 Der Buchclub trifft sich montags im zweiwöchigen Rhythmus über WE20. Die Treffen dauern in der Regel zwischen einer und anderthalb Stunden.
