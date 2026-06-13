@@ -35,4 +35,4 @@ Richard Morgan wurde am 24. September 1965 in London geboren. Er studierte Engli
 - 
 
 ## Siehe auch
-- [[]]
+- [Website von Richard Morgan](https://www.richardkmorgan.com/)
