@@ -20,6 +20,7 @@ Auf dieser Seite sammele ich Autoren, Werke, Notizen, Empfehlungen und Diskussio
 
 **Zusammenfassungen**:
 [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erstes Treffen]]
+[[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Zweiter Termin]]
 
 Für das nächste Buch ist eine [[00 Index/01 Abstimmungen/Abstimmung Buch 2\|Abstimmung]] offen. Den Link zur Umfrage findet ihr auf Discord.
 

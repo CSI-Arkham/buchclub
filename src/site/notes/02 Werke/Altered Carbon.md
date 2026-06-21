@@ -9,6 +9,16 @@ von [[01 Autoren/Richard Morgan\|Richard Morgan]]
 ## Kurzbeschreibung
 Die Geschichte wird aus der Ich-Perspektive des Protagonisten geschildert. Die Handlung spielt im 26. Jahrhundert. Dort können Menschen durch Bewusstseinstransfers biblische Alter erreichen. Die Hauptfigur wird beauftragt ein Mord aufzuklären und zwar vom Mordopfer selbst.
 
+Das Buch ist ist in
+- Prolog
+- Erster Teil: Ankunft (Download)
+- Zweiter Teil: Reaktion (Internkonflikt)
+- Dritter Teil: Allianz (Aktualisierung)
+- Vierter Teil: Überzeugung (Virusbefall)
+- Fünfter Teil: Nemesis (Systemcrash)
+- Epilog
+unterteilt.
+
 ## Themen
 - Unsterblichkeit
 - Trennung von Geist und Körper
@@ -18,7 +28,11 @@ Die Geschichte wird aus der Ich-Perspektive des Protagonisten geschildert. Die H
   Protagonist und verurteilter Straftäter, der von Laurens Bancroft angeheuert wird, um seinen, Bancrofts, Mord aufzuklären.
 - **Laurens Bancroft**
   Super Reicher und einflussreicher Mensch, der durch beständiges *sleeven* über 300 Jahre alt sind.
-- 
+- **Miriam Bancroft**
+  Ehefrau von Laurens mit einen attraktiven und modifizierten Körper
+- **Hendrix**
+  KI Hotel, in dass Kovacs absteigt.
+  
 
 ## Stil
 Thriller in der Zukunft, in der Art eines Film Noir.
@@ -32,6 +46,7 @@ Anfangs schwer reinzukommen, wegen der spezifischen Vokabeln des Genres.
 
 ## Diskussionen
 - [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erster Teil]]
+- [[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Zweiter Teil]]
 
 ## Editionen
 - Heyne Verlag 2017, ISBN 978-3453318656, deutsch von Bernhard Kempen, 608 Seiten
