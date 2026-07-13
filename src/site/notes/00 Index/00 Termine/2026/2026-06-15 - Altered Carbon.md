@@ -23,7 +23,6 @@ Zudem: Wie kann man sich sicher sein, mit wem man spricht oder wen man vor sich 
 
 - _**Ich denke, also bin ich!**_  
     Inwieweit ist man noch dieselbe Person, wenn zwar der Geist da ist, aber der Körper ein anderer ist?
-    
 
 ## Buchclub
 

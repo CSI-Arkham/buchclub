@@ -3,8 +3,7 @@
 ---
 
 Abstimmungszeitraum **01.06.2026** von bis **29.06.2026**
-An der Abstimmung können alle Buchclubinteressierte über einen Link auf [Discord](https://discord.pp/we20) teilnehmen, die Ergebnisse werden hier manuell synchronisiert. Die Ergebnisse der Umfrage ist maßgeblich, falls ich mal einen Fehler beim abtippen mache :)
-
+Die finale Liste. Das zweite Buch iste [[02 Werke/Metro 2033\|Metro 2033]] von [[01 Autoren/Dmitry Gluchowski\|Dmitry Gluchowski]]!
 
 
 | Titel                                           | Autor                 | Inhalt                                                                                                             | Stimmen<br>ja/ok |
@@ -17,11 +16,11 @@ An der Abstimmung können alle Buchclubinteressierte über einen Link auf [Disco
 | [[Blackout\|Blackout]]                                    | [[Marc Elsberg\|Marc Elsberg]]      | Ein Thriller über die Folgen eines großflächigen Stromausfalls in Europa.                                          | 3/1              |
 | [[Die Hacienda\|Die Hacienda]]                                | [[Isabel Cañas\|Isabel Cañas]]      | Historischer Horrorroman voller Geister, Schuld und mexikanischer Folklore.                                        | 3/1              |
 | [[Die linke Hand der Dunkelheit\|Die linke Hand der Dunkelheit]]               | [[Ursula K. Le Guin\|Ursula K. Le Guin]] | Anspruchsvolle Science-Fiction über Gesellschaft, Geschlecht und Fremdheit.                                        | 3/0              |
+| [[Ein anderes Land\|Ein anderes Land]]                            | [[James Baldwin\|James Baldwin]]     | Intensiver literarischer Roman über Identität, Beziehungen und gesellschaftliche Spannungen.                       | 3/0              |
 | [[Ein Mann namens Ove\|Ein Mann namens Ove]]                         | [[Fredrik Backman\|Fredrik Backman]]   | Das streng geordnete Leben eines grummeligen alten Mannes gerät durch neue Nachbarn durcheinander.                 | 3/0              |
 | [[Das Gleismeer\|Das Gleismeer]]                               | [[China Miéville\|China Miéville]]    | Eine fantasievolle Neuinterpretation von Moby Dick in einer Welt aus endlosen Schienennetzen.                      | 2/0              |
 | [[Das Karpatenschloss\|Das Karpatenschloss]]                         | [[Jules Verne\|Jules Verne]]       | Ein angeblich von Geistern heimgesuchtes Schloss birgt eine tragische Geschichte voller technischer Illusionen.    | 2/0              |
 | [[Der alte Mann und das Meer\|Der alte Mann und das Meer]]                  | [[Ernest Hemingway\|Ernest Hemingway]]  | Ein alter Fischer kämpft einsam um Stolz, Beute und Würde.                                                         | 2/0              |
-| [[Ein anderes Land\|Ein anderes Land]]                            | [[James Baldwin\|James Baldwin]]     | Intensiver literarischer Roman über Identität, Beziehungen und gesellschaftliche Spannungen.                       | 2/0              |
 | [[Eroberung\|Eroberung]]                                   | [[Laurent Binet\|Laurent Binet]]     | Alternative Geschichtsschreibung voller politischer Intrigen, Religion und kultureller Verschiebungen.             | 2/0              |
 | [[Kriegsklingen\|Kriegsklingen]]                               | [[Joe Abercrombie\|Joe Abercrombie]]   | Moderne Grimdark-Fantasy mit tiefschwarzem Humor und moralisch graue Charaktere.                                   | 2/0              |
 | [[Little Brother\|Little Brother]]                              | [[Cory Doctorow\|Cory Doctorow]]     | Schüler wehren sich gegen Überwachungs-/ Polizeistaat in San Francisco                                             | 2/0              |
@@ -29,6 +28,7 @@ An der Abstimmung können alle Buchclubinteressierte über einen Link auf [Disco
 | [[Zodiac\|Zodiac]]                                      | [[Robert Graysmith\|Robert Graysmith]]  | True-Crime-Klassiker über den berühmten Zodiac-Killer und die Obsession seiner Ermittler.                          | 2/0              |
 | [[Beowulf\|Beowulf]]                                     |                       | Ein Held kämpft gegen Monster und am Ende gegen den eigenen Ruhm.                                                  | 1/2              |
 | [[Imperium\|Imperium]]                                    | [[Christian Kracht\|Christian Kracht]]  | Sprachgewaltiger Roman zwischen Kolonialgeschichte, Satire und existenzieller Selbsttäuschung.                     | 1/1              |
-| [[Die zerrissene Erde\|Die zerrissene Erde]]                         | [[N. K. Jemsin\|N. K. Jemsin]]      | Menschen mit besonderen Kräften in einer Welt, die regelmäßig von verheerenden Katastrophen erschüttert wird.      | 1/0              |
+| [[02 Werke/Zerrissene Erde\|Zerrissene Erde]]                             | [[N. K. Jemsin\|N. K. Jemsin]]      | Menschen mit besonderen Kräften in einer Welt, die regelmäßig von verheerenden Katastrophen erschüttert wird.      | 1/0              |
 | [[Reise zum Mittelpunkt der Erde\|Reise zum Mittelpunkt der Erde]]              | [[Jules Verne\|Jules Verne]]       | Ein Professor und seine Begleiter entdecken auf dem Weg zum Erdinneren eine fantastische Welt.                     | 1/0              |
 | [[Träumen Androiden von elektrischen Schafen?\|Träumen Androiden von elektrischen Schafen?]] | [[Philip K. Dick\|Philip K. Dick]]    | Die Vorlage zu Blade Runner; melancholische Cyberpunk-Dystopie.                                                    | 1/0              |
+
