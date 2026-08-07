@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","original":null,"aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","vollname":"[[01 Autoren/Richard Morgan\|Richard Morgan]]","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir","Krimi"],"buchclub":"ja","status":"aktuell","wertung":null,"buchclubwertung":null,"tags":["Unsterblichkeit","Zukunft"]}}
+{"dg-publish":true,"permalink":"/02 Werke/Altered Carbon/","tags":["Unsterblichkeit","Zukunft"],"dg-note-properties":{"titel":"Altered Carbon","original":null,"aliases":["Das Unsterblichkeitsprogramm","Altered Carbon - Das Unsterblichkeitsprogramm"],"autorname":"Morgan","autorvorname":"Richard","vollname":"[[01 Autoren/Richard Morgan\|Richard Morgan]]","jahr":2002,"genre":["ScienceFiction","Cyberpunk","Noir","Krimi"],"buchclub":"ja","status":"aktuell","wertung":"3","buchclubwertung":"4","tags":["Unsterblichkeit","Zukunft"]}}
 ---
 
 
@@ -30,6 +30,8 @@ unterteilt.
   Super Reicher und einflussreicher Mensch, der durch beständiges *sleeven* über 300 Jahre alt sind.
 - **Miriam Bancroft**
   Ehefrau von Laurens mit einen attraktiven und modifizierten Körper
+- **Kristin Ortega**
+  Eine hartnäckige Polizistin mit starkem Gerechtigkeitssinn, die sich trotz ihrer Skepsis zunehmend auf Kovacs einlässt.
 - **Hendrix**
   KI Hotel, in dass Kovacs absteigt.
   
@@ -47,11 +49,15 @@ Anfangs schwer reinzukommen, wegen der spezifischen Vokabeln des Genres.
 ## Diskussionen
 - [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erster Teil]]
 - [[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Zweiter Teil]]
+- [[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Dritter Teil]]
+- [[00 Index/00 Termine/2026/2026-07-13 - Altered Carbon\|Vierter und fünfter Teil]]
+
 
 ## Editionen
 - Heyne Verlag 2017, ISBN 978-3453318656, deutsch von Bernhard Kempen, 608 Seiten
 
 ## Notizen
+- Das Buch wurde im Club vom 18.05. bis 13.07.2026 im Club gelesen und erreicht eine Wertung von 4 von 10
 - 2018 und 2020 entstanden zwei Staffeln einer Netflix Serie unter dem Buchtitel.
 
 ## Siehe auch

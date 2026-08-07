@@ -28,8 +28,11 @@ Richard Morgan wurde am 24. September 1965 in London geboren. Er studierte Engli
 >*[Richard Morgan auf seiner Website](https://web.archive.org/web/20130304115816/http://www.richardkmorgan.com:80/novels/altered-carbon)*
 
 ## Verbindungen
-- [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|2026-06-01 - Altered Carbon]]
-- [[]]
+**Altered Carbon**
+- [[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Besprechung erster Teil]]
+- [[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Besprechung zweiter Teil]]
+- [[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Besprechung dritter Teil]]
+- [[00 Index/00 Termine/2026/2026-07-13 - Altered Carbon\|Besprechung vierter und fünfter Teil]]
 
 ## Notizen
 - 

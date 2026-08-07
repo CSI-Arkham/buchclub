@@ -3,11 +3,11 @@
 ---
 
 ![Buchmafia.png](/img/user/98%20Anh%C3%A4nge/Bilder/Buchmafia.png)
-**Willkommen im WE20 Buchclub, schön, dass Du da bist!**
+**Willkommen im *Be Dice* Buchclub, schön, dass Du da bist!**
 
-Der Buchclub trifft sich montags im zweiwöchigen Rhythmus über WE20. Die Treffen dauern in der Regel zwischen einer und anderthalb Stunden.
+Der Buchclub trifft sich montags im zweiwöchigen Rhythmus über *Be Dice*. Die Treffen dauern in der Regel zwischen einer und anderthalb Stunden.
 
-**Das nächste Treffen findet am 13.07. ab 20 Uhr statt.**
+**Das nächste Treffen findet am 10.08. ab 20 Uhr statt.**
 
 Im Mittelpunkt stehen Gespräche über Literatur: Romane, Erzählungen, Klassiker, moderne Werke und alles dazwischen. Dabei geht es nicht darum, Literatur *richtig* zu verstehen, sondern unterschiedliche Perspektiven kennenzulernen und gemeinsam über Texte nachzudenken.
 
@@ -15,17 +15,14 @@ Ein besonderer Fokus liegt auf Geschichten als Werkzeug für kreatives Erzählen
 
 Jeder ist willkommen — unabhängig davon, ob viel gelesen wird oder man gerade erst beginnt, sich intensiver mit Literatur zu beschäftigen.
 
-Auf dieser Seite sammele ich Autoren, Werke, Notizen, Empfehlungen und Diskussionen aus dem Buchclub. Auf dem Discord von [WE20](https://discord.gg/we20) wird alles organisiert. Die jeweils aktuelle Abstimmung findet man auf der [WE20 Website](https://www.we20.de/buchclub) (Account erforderlich)
+Auf dieser Seite sammele ich Autoren, Werke, Notizen, Empfehlungen und Diskussionen aus dem Buchclub. Auf dem Discord von [Be Dice](https://discord.gg/QWkET6FUVG) wird alles organisiert. 
 
 ## **Aktuell wird gelesen**:
 
-[[02 Werke/Altered Carbon\|Altered Carbon]] von [[01 Autoren/Richard Morgan\|Richard Morgan]].
-Das nächste Buch wird [[02 Werke/Metro 2033\|Metro 2033]] von [[01 Autoren/Dmitry Gluchowski\|Dmitry Gluchowski]] sein und wird am 27.07. bis einschließlich Kapitel 6 zum ersten Mal bei uns besprochen.
+[[02 Werke/Metro 2033\|Metro 2033]] von [[01 Autoren/Dmitry Gluchowski\|Dmitry Gluchowski]].
+Das Buch wird am 10.08. bis einschließlich Kapitel 10 zum zweiten Mal bei uns besprochen.
 ### **Zusammenfassungen**:
-
-[[00 Index/00 Termine/2026/2026-06-01 - Altered Carbon\|Erstes Treffen]]
-[[00 Index/00 Termine/2026/2026-06-15 - Altered Carbon\|Zweites Treffen]]
-[[00 Index/00 Termine/2026/2026-06-29 - Altered Carbon\|Drittes Treffen]]
+[[00 Index/00 Termine/2026/2026-07-27 - Metro 2033\|Erstes Treffen]]
 
 ## **Buchlisten**:
 
