@@ -3,7 +3,7 @@
 ---
 
 Abstimmungszeitraum **06.07.2026** von bis **24.08.2026**
-Die Daten für die Abstimmung werden auf dem Discord gepostet. Hier erfolgen künftig wieder regelmäßig die Zwischenstände der laufenden Umfrage.
+Die Daten für die Abstimmung werden auf dem Discord gepostet. Hier erfolgen künftig wieder regelmäßig die Zwischenstände der laufenden Umfrage. 
 [Discord Link](https://discord.gg/NnMSuE8faW)
 
 
